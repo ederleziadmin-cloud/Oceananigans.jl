@@ -38,4 +38,4 @@ Anywhere Oceananigans expects a number in SI units, you can write expressions li
 | File size  | `KiB`, `MiB`, `GiB`, `TiB`       | powers of 1024 bytes |
 
 Singular and plural forms are identical (`1day == 1days`).
-The file-size constants are useful with the `max_filesize` keyword of output writers.
+The file-size constants are useful with the `max_filesize` keyword of output writers. By: Vidak József Kornél 
